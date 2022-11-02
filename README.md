@@ -1,0 +1,1 @@
+# smart_contracts_subgraph_test
