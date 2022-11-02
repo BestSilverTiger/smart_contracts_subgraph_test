@@ -1,1 +1,1 @@
-# smart_contracts_subgraph_test
+# smart-contracts
